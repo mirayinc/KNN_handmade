@@ -1,4 +1,4 @@
-# KNN_handmade
+# KNN handmade
 KNN algoritması, python ile kütüphane kullanmadan yazılmıştır. 
 
 ## KNN Nedir?
@@ -14,3 +14,7 @@ Tembel algoritma, eğitim verilerinden bir ayrıştırıcı fonksiyon (discrimin
 K değeri, komşu sayısını belirleyerek modelin genelleme yeteneğini etkiler.
 Komşu sayısı, karar verme faktörüdür bu nedenle genellikle 𝐾, beraberliği önlemek için tek bir sayı olarak seçilir.
 Hesaplama basit olsa da, KNN algoritması büyük veri setlerinde yavaş çalışabilir ve özellik ölçeklendirmesi gibi ön işlemleri gerektirebilir.
+
+! Bu proje Hacettepe Ünivesitesi 2024-2025 güz dönemi FEF210 dersinde verilen ilk ödevdir.
+! Ders hakkında daha fazla bilgiye https://mmuratarat.github.io/turkish/fef210_2425fall/ adresinden ulaşabilirsiniz.
+! Ders sorumlusu Sayın Mustafa Murat Arat'a bana kattıkları için çok teşekkür ederim.
